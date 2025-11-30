@@ -1,4 +1,4 @@
-# 🧠 Your First Neural Network — Moons Classification
+# 🧠 Neural Network — Moons Classification
 
 This project builds a simple **neural network classifier** on the well-known **two-moons dataset**, introducing the essentials of deep learning: data generation, preprocessing, neural network architecture design, training, evaluation, and visualization.  
 It is a great foundational project for understanding how neural networks learn non-linear patterns.
